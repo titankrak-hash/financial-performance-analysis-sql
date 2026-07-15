@@ -1,3 +1,9 @@
+## 📂 Project Files
+
+**Main project workbook**
+
+➡️ https://github.com/titankrak-hash/financial-performance-analysis-sql/raw/refs/heads/main/Proyecto%203_%20An%C3%A1lisis%20del%20desempe%C3%B1o%20financiero%20con%20SQL%20-%20Resumen%20ejecutivo%20%20(1).xlsx
+
 # Adventure Works Financial Analysis (SQL)
 
 Financial performance analysis using SQL to evaluate revenue, profitability, and marketing ROI across different countries.
